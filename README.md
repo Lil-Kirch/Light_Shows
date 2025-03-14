@@ -2,6 +2,8 @@
 
 This includes:
 
-WLED light controller board with ESP32
+Custom WLED light controller board with ESP32
 
-Light strips that are controlled by the WLED light controller
+Connection of WLED Controllers to light strips and other lights
+
+Please read the markdown files in individual folders for descriptions of controllers and shows
