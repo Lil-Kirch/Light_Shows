@@ -12,9 +12,8 @@ Image of Assembled Device:
 
 Image of Schematic:
 
-<img src="https://github.com/user-attachments/assets/57a5bbc1-2165-4fd2-9341-ec01eff2e30f.pdf" alt="drawing" width="200"/>
-![WLED_Schematic](https://github.com/user-attachments/assets/57a5bbc1-2165-4fd2-9341-ec01eff2e30f)
+<img src="WLED_Schematic.png" alt="Schematic" height="400"/>
 
-Imaage of model:
+Image of model:
 
-![WLED Model](https://github.com/user-attachments/assets/810c2b52-9027-49cc-b663-07a8ac9c6f68)
+<img src="WLED_Model.png" alt="Model" height="400"/>
