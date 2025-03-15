@@ -16,6 +16,6 @@ Image of Schematic:
 
 <img src="WLED_Schematic.png" alt="Schematic" height="400"/>
 
-Image of model:
+Image of Model:
 
 <img src="WLED_Model.png" alt="Model" height="400"/>
