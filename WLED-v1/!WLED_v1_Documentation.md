@@ -10,6 +10,8 @@ This project was designed in Altium, fabricated by JLCPCB, and assembled by hand
 
 Image of Assembled Device:
 
+<img src="WLED_Device.jpg" alt="Schematic" height="400"/>
+
 Image of Schematic:
 
 <img src="WLED_Schematic.png" alt="Schematic" height="400"/>
